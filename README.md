@@ -1,4 +1,4 @@
-📊 Task 2 – Data Visualization & Storytelling
+
 
 Tool Used: Power BI
 Dataset: Sample Superstore Dataset
